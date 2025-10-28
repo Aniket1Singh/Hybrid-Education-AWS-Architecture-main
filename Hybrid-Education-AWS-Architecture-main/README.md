@@ -1,6 +1,6 @@
 # Hybrid Education AWS Architecture
 
-A scalable AWS infrastructure for VIT University's hybrid learning platform using CloudFormation
+A scalable AWS infrastructure for VIT University's hybrid learning platform using CloudFormation.
 Made By Aniket Singh(22BEC0983) and Prakhar Sinha(22BCI0127).
 
 ![image](https://github.com/user-attachments/assets/4bcbd2be-915c-4772-a96c-d3891cbd1715)
